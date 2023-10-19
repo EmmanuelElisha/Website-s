@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right,
+    #f5f8d2f3 0%,
+    rgb(247, 248, 227) 50%,
+    rgb(227, 66, 71) 50%);
+}
+
+
+
+/*rounded
+{
+    float: right;
+    width: 120px;
+    padding: 190%;
+    margin-right: 80px;
+}*/
+body{
+    background-color: aqua;
+}

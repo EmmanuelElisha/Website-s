@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Poppins:wght@300;400;500&display=swap');
+
+body {
+    min-height: 100vh;
+    background-image: url('file:///C:/Users/DELL/Downloads/images%20(8).jpg') no-repeat;  
+  }
+
+.navbar a {
+font-size: 18px;
+color: #fff;
+font-weight: 500;
+text-decoration: none;
+
+}
